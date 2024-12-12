@@ -13,7 +13,7 @@ data class WeatherResponseModel(
         val temp_c: Double,
         val condition: WeatherCondition,
         val humidity: Double,
-        val fellslike_c: Double,
+        val feelslike_c: Double,
         val uv: Double
     )
 

@@ -7,7 +7,7 @@ data class WeatherEntity(
     val temperature: Double,
     val condition: WeatherCondition,
     val humidity: Double,
-    val fellsLike: Double,
+    val feelsLike: Double,
     val uv: Double
 ) {
 
@@ -26,7 +26,7 @@ data class WeatherEntity(
                 icon = response.current.condition.icon
             ),
             humidity = response.current.humidity,
-            fellsLike = response.current.fellslike_c,
+            feelsLike = response.current.feelslike_c,
             uv = response.current.uv,
         )
     }
