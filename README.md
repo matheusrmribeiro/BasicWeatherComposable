@@ -33,4 +33,4 @@
 **ATTENTION:** This application only runs on Android M (API 24) or higher versions.
 
 ### Preview
-<img src="screenshots/demo_recording.gif" height="250"/>
+<img src="screenshots/demo_recording.gif" width="40%"/>
