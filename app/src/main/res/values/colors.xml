@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="placeholder">#FFDADADA</color>
+    <color name="textField">#FFF2F2F2</color>
+    <color name="weatherTitle">#FFC4C4C4</color>
+    <color name="weatherContent">#FF9A9A9A</color>
+    <color name="weatherBackground">#FFF2F2F2</color>
 </resources>
